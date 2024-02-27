@@ -1,2 +1,2 @@
-module jmp.service.api {
-}
+//module jmp.service.api {
+//}

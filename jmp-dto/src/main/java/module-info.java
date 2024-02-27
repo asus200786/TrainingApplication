@@ -1,2 +1,2 @@
-module jmp.dto {
-}
+//module jmp.dto {
+////}
